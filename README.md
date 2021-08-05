@@ -17,6 +17,7 @@ Long term goals
 * Salary of 100k USD
 * Post informative content on youtube about Offensive security
 
+## Acomplishments so far
 
 ## June 2021 through __ (Network+)
 I have given myself from now until the end of the year (7 months from now) to get my Network+ certification. I will be using many resources such as Cybrarys' and Professor Messers' courses. In order to not flood this page with tons of information I am just going to link to another page which explains in depth what I am doing to get my network+ cert. So go and read [this](https://github.com/HiroNewf/Network-Plus) if you wanna know more about this step.
