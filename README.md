@@ -9,6 +9,7 @@ Some of my goals/ things I want to learn are listed below (these are for the nex
 * Bash
 * Powershell
 * Batch
+* Pentesting software (Nmap/Zenmap, Wireshark, Metaspliot, ect)
 
 Long term goals
 * Get a job in Penetration testing
