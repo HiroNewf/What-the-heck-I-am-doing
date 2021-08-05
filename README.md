@@ -1,5 +1,21 @@
 # Basic info
-This is going to be where I talk about the steps I am taking to get into Cybersecurity and Penetration testing, from learning coding to getting certifications. It will all be talked about here. I have done some learning prior to the stuff listed here but it was nothing major and was just random courses from cybrary here and there many of which I have forgotten so I am not going to bother mentioning them.
+This is going to be where I talk about the steps I am taking to get into Cybersecurity and Penetration testing, from learning coding to getting certifications. It will all be talked about here. I have done some learning prior to the stuff listed here but it was nothing major and was just random courses from cybrary here and there many of which I have forgotten so I am not going to bother mentioning them. I am currently 15 (as of August 2021) and I have tons of free time due the fact that I am homeschooled. I am trying to utilize that free time as best as possible to help me get a head start in my Cyber Security career. I have set some goals for myself in terms of what I want to get done before I turn 18 and get my first full time job.                                                                                               
+Some of my goals/ things I want to learn are listed below (these are for the next 3 years, I have some other goals for further into the future):
+* Network+ cert                                                                                                                                                       
+* Security+ cert
+* Pentest+ cert
+* Learn to use Python to automate pentesting tasks
+* Popular OS's (Linux, Unix, Windows, & maybe MacOS)
+* Bash
+* Powershell
+* Batch
+
+Long term goals
+* Get a job in Penetration testing
+* OSCP
+* Salary of 100k USD
+* Post informative content on youtube about Offensive security
+
 
 ## June 2021 through __ (Network+)
 I have given myself from now until the end of the year (7 months from now) to get my Network+ certification. I will be using many resources such as Cybrarys' and Professor Messers' courses. In order to not flood this page with tons of information I am just going to link to another page which explains in depth what I am doing to get my network+ cert. So go and read [this](https://github.com/HiroNewf/Network-Plus) if you wanna know more about this step.
