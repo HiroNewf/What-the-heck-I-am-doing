@@ -28,3 +28,6 @@ Learning a coding language can be quite useful for automating certain tasks when
 ## Start of August and onward (TryHackMe)
 I have known that [TryHackMe](https://tryhackme.com) existed for a while now, but I just got around to actually checking it out. I made an account and tried out a few things. I have started the Offensive Pentesting learning path and it is quite good so far. I am considering getting the premium access, but I am probably going to make sure I really like it first by just using the free version for a couple weeks or so. Premium version is $10/month for anyone that is wondering.
 
+## How long I spend working on stuff
+My current goal is to work on studying something for at least 4 hours each weekday. Not really sure what my plans for the weekends are going to be yet. That will probably be where I work on personal projects like coding and stuff instead of any kind of guided studying, but we'll have to see. 
+
